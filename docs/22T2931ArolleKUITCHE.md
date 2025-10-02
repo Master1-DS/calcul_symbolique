@@ -16,7 +16,7 @@ TP Serie 1 :
 
 
 
-Ce document récapitule les travaux effectués pour le TP INF4127 : Fiche de TPE n° 1.
+Ce document récapituttle les travaux effectués pour le TP INF4127 : Fiche de TPE n° 1.
 
 
 
@@ -28,25 +28,26 @@ J'ai été responsable de l'analyse mathématique et théorique pour les deux fo
 
 
 
-\* \*\*Erreur Quadratique Moyenne (MSE)\*\* :
+* **Erreur Quadratique Moyenne (MSE)** :
 
-    \* Dérivation complète de l'expression du gradient ($\\nabla\_{\\hat{y}} L\_{MSE}$).
+    * Dérivation complète de l'expression du gradient ($\\nabla\_{\\hat{y}} L\_{MSE}$).
 
-    \* Démonstration de la propriété de convexité (strictement convexe).
+    * Démonstration de la propriété de convexité (strictement convexe).
 
-\* \*\*Entropie Croisée Binaire (BCE)\*\* :
+* **Entropie Croisée Binaire (BCE)** :
 
-    \* Dérivation complète de l'expression du gradient ($\\nabla\_{\\hat{y}} L\_{BCE}$).
+    * Dérivation complète de l'expression du gradient ($\\nabla\_{\\hat{y}} L\_{BCE}$).
 
-    \* Démonstration de la propriété de convexité (strictement convexe).
-
-
-
-\### 2. Documentation et Rapport
+    * Démonstration de la propriété de convexité (strictement convexe).
 
 
 
-\* Rédaction initiale des sections théoriques du rapport correspondant à la MSE et à la BCE.
+### 2. Documentation et Rapport
 
-\* Validation de la justesse mathématique des dérivés pour ces deux fonctions.
+
+
+* Rédaction initiale des sections théoriques du rapport correspondant à la MSE et à la BCE.
+
+* Validation de la justesse mathématique des dérivés pour ces deux fonctions.
+
 
