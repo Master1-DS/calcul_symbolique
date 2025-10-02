@@ -11,7 +11,7 @@ TP Serie 1 :
 
 
 
-\## Rôle : Responsable des Représentations Graphiques des Fonctions de Perte
+## Rôle : Responsable des Représentations Graphiques des Fonctions de Perte
 
 
 
@@ -19,7 +19,7 @@ Ce document récapitule les travaux effectués pour le TP INF4127 : Fiche de TPE
 
 
 
-\### 1. Représentation Graphique (Exercice 1, point 3.a)
+### 1. Représentation Graphique (Exercice 1, point 3.a)
 
 
 
@@ -27,11 +27,11 @@ J'ai été chargé de coder et de générer les visualisations des courbes de pe
 
 
 
-\* \*\*Implémentation et Représentation 2D/3D de la MSE\*\* : Courbe de perte en fonction des poids ou des prédictions sur le jeu de données de régression.
+* **Implémentation et Représentation 2D/3D de la MSE** : Courbe de perte en fonction des poids ou des prédictions sur le jeu de données de régression.
 
-\* \*\*Implémentation et Représentation 2D/3D de la BCE/CCE\*\* : Courbes de perte en fonction des poids ou des prédictions sur le jeu de données de classification.
+* **Implémentation et Représentation 2D/3D de la BCE/CCE** : Courbes de perte en fonction des poids ou des prédictions sur le jeu de données de classification.
 
-\* \*\*Implémentation et Représentation 2D/3D de la Perte de Huber\*\*.
+* **Implémentation et Représentation 2D/3D de la Perte de Huber**.
 
 
 
@@ -42,4 +42,5 @@ J'ai été chargé de coder et de générer les visualisations des courbes de pe
 \* Code Python utilisé pour la génération des courbes.
 
 \* Analyse descriptive des formes de courbes (par exemple, point de non-différentiabilité de Huber).
+
 
